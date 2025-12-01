@@ -1,0 +1,25 @@
+# Documentos de Trabajo
+wrk/
+Archivos/
+
+# Output
+/Output
+
+# VS Local
+.vs/
+bin/
+obj/
+Debug/
+Release/
+out/
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+
+# UiPath Local
+.local/
+.project/
