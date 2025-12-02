@@ -3,3 +3,12 @@ cd Para cambiar de documento
 git clone Para clonar una url
 dir Muestra todo lo que contiene una carpeta
 cls Para borrar la pantalla 
+git status Para comparar cambios del repositorio local con el ultimo commit  
+git add Para preparar los archivos que quiero agregar al siguiente commit 
+git commit -m "descripcion" Para guardar los archivos 
+git log Para ver la historia de los commits del repositorio local
+git push origin rama "main" Para subir los archivos al repositorio remoto  
+cmd Para abrir la consola 
+ 
+ 
+  
