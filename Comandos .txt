@@ -1,5 +1,0 @@
-https://espinosaisai2007-crypto@github.com/israel-lg/training-isai.git
-cd Para cambiar de documento
-git clone Para clonar una url
-dir Muestra todo lo que contiene una carpeta
-cls Para borrar la pantalla 

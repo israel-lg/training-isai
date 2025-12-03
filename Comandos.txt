@@ -1,5 +1,5 @@
 https://espinosaisai2007-crypto@github.com/israel-lg/training-isai.git
-cd Para cambiar de documento
+cd Para cambiar de carpeta
 git clone Para clonar una url
 dir Muestra todo lo que contiene una carpeta
 cls Para borrar la pantalla 
@@ -10,5 +10,4 @@ git log Para ver la historia de los commits del repositorio local
 git push origin rama "main" Para subir los archivos al repositorio remoto  
 cmd Para abrir la consola 
  
- 
-  
+siguientes comandos por aprender.
