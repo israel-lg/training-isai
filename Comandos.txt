@@ -1,13 +1,24 @@
 https://espinosaisai2007-crypto@github.com/israel-lg/training-isai.git
 cd Para cambiar de carpeta
+
 git clone Para clonar una url
+
 dir Muestra todo lo que contiene una carpeta
+
 cls Para borrar la pantalla 
+
 git status Para comparar cambios del repositorio local con el ultimo commit  
+
 git add Para preparar los archivos que quiero agregar al siguiente commit 
+
 git commit -m "descripcion" Para guardar los archivos 
+
 git log Para ver la historia de los commits del repositorio local
+
 git push origin rama "main" Para subir los archivos al repositorio remoto  
+
 cmd Para abrir la consola 
- 
-siguientes comandos por aprender.
+
+git fetch Trae los cambios que hay en el GitHub, ya sea que te cree o actualice todas las ramas que empiecen con origin/
+
+git log origin/main PARA MOSTRAR LA HISTORIA DE LA RAMA DE ORIGIN/MAIN
