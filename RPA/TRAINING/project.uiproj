@@ -1,0 +1,6 @@
+{
+  "Name": "TRAINING",
+  "ProjectType": "Process",
+  "Description": "Este proyecto es de entrenamiento para uipath",
+  "MainFile": "Main.xaml"
+}
