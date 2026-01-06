@@ -1,0 +1,6 @@
+{
+  "Name": "Verificar Servicios",
+  "ProjectType": "Process",
+  "Description": "Robot que verificará el estado de pago de servicios públicos",
+  "MainFile": "Main.xaml"
+}

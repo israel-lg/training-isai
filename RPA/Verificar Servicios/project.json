@@ -1,18 +1,18 @@
 {
-  "name": "TRAINING",
-  "projectId": "7359374b-13f8-4c9d-b346-b47ffa53572c",
-  "description": "Este proyecto es de entrenamiento para uipath",
+  "name": "Verificar Servicios",
+  "projectId": "77665467-a835-4fcc-a93f-c24bd372ce2f",
+  "description": "Robot que verificará el estado de pago de servicios públicos",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "3.3.1",
+    "UiPath.Excel.Activities": "[3.3.1]",
     "UiPath.System.Activities": "[25.8.1]",
-    "UiPath.UIAutomation.Activities": "25.10.22"
+    "UiPath.UIAutomation.Activities": "[25.10.22]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "25.0.176.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -47,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "99bec0a0-89eb-4546-9c2f-6da30aa11307",
+      "uniqueId": "7a1ff1c9-d2a8-4c79-9e23-7475454a5e40",
       "input": [],
       "output": []
     }

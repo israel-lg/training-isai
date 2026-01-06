@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PT7O6Po9y0-oqhLdPiVDsw" Reference="s5ltHoV9vkSkIBAdoWIwUA/JoZ2m02evkerHlwPNOT2oA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.cfe.mx/Aplicaciones/CCFE/MiEspacio/Login.aspx" CVScreenId="092fa55b-c9f1-49e1-a426-c739e9fe2dce" DesignTimeRectangle="727, 889, 183, 60" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='login-form' tag='DIV' /&gt;&lt;webctrl tag='INPUT' type='submit' id='*_MainContent_btnIngresar' /&gt;" Guid="56ea4f60-e4e5-46c4-89f9-bf603fb32d69" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mi Espacio' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1df49d8282b394b469ecc72b2b443873.png" xmlns="">0W0_TmDx8IEWJ8N3AD62AxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

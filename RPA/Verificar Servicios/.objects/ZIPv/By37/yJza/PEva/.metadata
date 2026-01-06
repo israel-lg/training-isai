@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Departamento - 57016120…",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "PEva-UN-wEeNDLic05IXsg",
+  "Reference": "s5ltHoV9vkSkIBAdoWIwUA/PEva-UN-wEeNDLic05IXsg",
+  "ParentRef": "s5ltHoV9vkSkIBAdoWIwUA/yJzawnGwOk-GXFAHWQOZyw",
+  "Created": "2026-01-05T14:59:20.2162234Z",
+  "Updated": "2026-01-05T14:59:20.2162234Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

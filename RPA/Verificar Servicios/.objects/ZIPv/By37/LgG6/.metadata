@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Mi Espacio",
+  "Type": "Screen",
+  "Id": "LgG6nte0sUOrDckOYOwcmA",
+  "Reference": "s5ltHoV9vkSkIBAdoWIwUA/LgG6nte0sUOrDckOYOwcmA",
+  "ParentRef": "s5ltHoV9vkSkIBAdoWIwUA/By37DjsLAUu9FdvMyODDTg",
+  "Created": "2026-01-02T15:08:37.2928838Z",
+  "Updated": "2026-01-02T15:08:37.2928838Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

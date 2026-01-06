@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VzJ04Go4wUOQRTjj12iwAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.cfe.mx/Aplicaciones/CCFE/MiEspacio/default.aspx" CVScreenId="1c8d9d94-85f7-4baf-8958-c60ea2140e6c" DesignTimeRectangle="549, 737, 610, 57" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='SELECT' name='*ddlServicios' parentid='*dvServicioExitoso' /&gt;" Guid="36b03cd9-c88a-4a9f-87b0-d7548345ccbe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mi Espacio' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e889152eb4381119e9ff360be7713a0.png" xmlns="">0RW-NNNCD_02DVtHBz28X6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

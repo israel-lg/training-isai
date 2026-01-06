@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "BaseFolder",
+      "DisplayName": "BaseFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Git\\Configuración\\Validar Servicios",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
